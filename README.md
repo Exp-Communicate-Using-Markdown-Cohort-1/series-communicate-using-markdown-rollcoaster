@@ -67,7 +67,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
   Define terms and link to docs.github.com.
 -->
 
-<details id=2 open>
+<details id=2>
 <summary><h2>Step 2: Add an image</h2></summary>
 
 _Great job adding headers to the file :sparkles:_
@@ -139,7 +139,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
   Define terms and link to docs.github.com.
 -->
 
-<details id=4 open>
+<details id=4>
 <summary><h2>Step 4: Make a task list</h2></summary>
 
 _Great job adding a code example to the file :partying_face:_
@@ -212,7 +212,7 @@ You can now [merge](https://docs.github.com/get-started/quickstart/github-glossa
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-<details id=X>
+<details id=X open>
 <summary><h2>Finish</h2></summary>
 
 _Congratulations friend, you've completed this course!_
